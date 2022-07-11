@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="EUC-KR" ?>
+<academy>
+    <university>
+        <blogger>
+            <name>
+                ��</name>
+            <department>Web Programming</department>
+            <phone>7625</phone>
+        </blogger>
+        <blogger>
+            <name>Han</name>
+            <department>IOS Programming</department>
+            <phone>7624</phone>
+        </blogger>
+        <blogger>
+            <name>Ko</name>
+            <department>Game Programming</department>
+            <phone>7626</phone>
+        </blogger>
+    </university>
+</academy>
